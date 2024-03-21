@@ -16,8 +16,6 @@ language:
 # thai-opt350m-instruct
  a generative language model for thai language based on opt350m
 
-![Thai Open Pretrained Transformer 350M - Generative](/thai-opt350m.png) 
-
 **Thai-OPT350M-Instruct** is a fine-tuned pretrained transformer for **thai language** based on facebook/opt-350m.
 
 Dataset for thai-opt350m-instruct
