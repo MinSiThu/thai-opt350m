@@ -47,6 +47,10 @@ User: อะไรคือวิธีที่ดีที่สุดใน�
 # How to use
 
 ```python
+# pip install transformers
+
+from transformers import AutoModelForCausalLM,AutoTokenizer
+
 model = AutoModelForCausalLM.from_pretrained("jojo-ai-mst/thai-opt350m-instruct")
 tokenizer = AutoTokenizer.from_pretrained("jojo-ai-mst/thai-opt350m-instruct")
 
